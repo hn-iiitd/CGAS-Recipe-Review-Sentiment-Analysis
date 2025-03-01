@@ -4,6 +4,7 @@
 This project focuses on sentiment analysis of recipe reviews using a dataset containing 1.1 million entries. The objective is to classify reviews into sentiment categories while addressing data imbalance challenges. Various machine learning and deep learning techniques have been employed to achieve optimal performance.
 
 ## Dataset
+-  [Kaggle](https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions/data) 
 - Contains **1.1 million** recipe reviews.
 - Addressed class imbalance using **SMOTE, Tomek links, and undersampling**.
 - Ratings grouped into three categories:
